@@ -1,1 +1,1 @@
-# vit-demo
+# vite-demo
